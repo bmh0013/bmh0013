@@ -6,6 +6,11 @@ I'm Brandon Harden, a full-stack software engineer with a passion for both front
 
 ## Recent Projects ⚙️⚙️
 
+### [React Native Tip Calculator](https://github.com/bmh0013/TipCalculator-ReactNative)
+Simple mobile app for calculating tip amount and splitting the bill.
+
+<img src="https://thumbs.gfycat.com/RegularSatisfiedCollie-size_restricted.gif" width="300">
+
 ### [BlueBerryExpress](https://github.com/bmh0013/BlueberryExpress)
 
 ![Gif showing login process](https://thumbs.gfycat.com/ShabbyLiquidBlackrussianterrier-size_restricted.gif)
