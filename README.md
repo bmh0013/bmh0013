@@ -6,6 +6,12 @@ I'm Brandon Harden, a full-stack software engineer with a passion for both front
 
 ## Recent Projects ⚙️⚙️
 
+### [Battleship Game](https://github.com/bmh0013/Battleship)
+Battleship game I made using React with Class components
+
+<img src="https://thumbs.gfycat.com/SnoopyEqualFoxterrier-size_restricted.gif" width="300">
+
+
 ### [React Native Tip Calculator](https://github.com/bmh0013/TipCalculator-ReactNative)
 Simple mobile app for calculating tip amount and splitting the bill.
 
