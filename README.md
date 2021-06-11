@@ -9,7 +9,7 @@ I'm Brandon Harden, a full-stack software engineer with a passion for both front
 ### [Battleship Game](https://github.com/bmh0013/Battleship)
 Battleship game I made using React with Class components
 
-<img alt="Battleship Game Demo" src="https://thumbs.gfycat.com/SnoopyEqualFoxterrier-size_restricted.gif" width="300">
+<img alt="Battleship Game Demo" src="https://thumbs.gfycat.com/SnoopyEqualFoxterrier-size_restricted.gif" width="400">
 
 
 ### [React Native Tip Calculator](https://github.com/bmh0013/TipCalculator-ReactNative)
@@ -20,9 +20,9 @@ Simple mobile app for calculating tip amount and splitting the bill.
 ### [BlueBerryExpress](https://github.com/bmh0013/BlueberryExpress)
 Blueberry Express aims to make learning a new language easy, fun, and accessible for everyone. Thanks to our team of volunteer language experts, we are able to offer a learning experience that rivals studying a language abroad from the comfort of your home.
 
-<img alt="Gif showing login process" src="https://thumbs.gfycat.com/ShabbyLiquidBlackrussianterrier-size_restricted.gif" width="300">
-<img alt="Gif showing teacher portal" src="https://thumbs.gfycat.com/BruisedPointedAoudad-size_restricted.gif" width="300">
-<img alt="Gif showing messages dashboard and about us page" src="https://thumbs.gfycat.com/BarrenWelldocumentedAmphibian-size_restricted.gif" width="300">
+<img alt="Gif showing login process" src="https://thumbs.gfycat.com/ShabbyLiquidBlackrussianterrier-size_restricted.gif" width="400">
+<img alt="Gif showing teacher portal" src="https://thumbs.gfycat.com/BruisedPointedAoudad-size_restricted.gif" width="400">
+<img alt="Gif showing messages dashboard and about us page" src="https://thumbs.gfycat.com/BarrenWelldocumentedAmphibian-size_restricted.gif" width="400">
 
 ---
 
